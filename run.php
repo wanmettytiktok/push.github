@@ -3,8 +3,8 @@
 include('config.php');
 
 echo "[+] Auto Commit and Push to Github \n\n";
-echo "How many Commit do you want ? ";
-$n = 100;
+echo "Commit 200 every 24 hours";
+$n = 200;
 
 
 $folder = "folder".rand();
