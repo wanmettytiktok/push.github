@@ -3,7 +3,7 @@
 include('config.php');
 
 echo "[+] Auto Commit and Push to Github \n\n";
-echo "Commit every 24 hours ";
+echo "Commit every 24 hours \n\n";
 $n = 200;
 
 
