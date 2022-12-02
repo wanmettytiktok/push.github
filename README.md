@@ -1,6 +1,13 @@
 AUTO Commit and Auto Push To Github
 
 How To Run ?
+
+on termux :
+1. pkg install php
+2. pkg install bash
+
+------------------------------------
+
 1. Create a personal Access Token of your github account (https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) [minimum : repo permission]
 2. Open config.php
 3. Fill $username = your github username
